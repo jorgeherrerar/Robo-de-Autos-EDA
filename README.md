@@ -1,4 +1,4 @@
-# EDA Robo de Vehiculos Jalisco
+# EDA Robo de Vehículos Jalisco
 
 Este repositorio es un Análisis Exploratorio de datos para la materia de Desarrollo de Proyecto I de la Maestría en ciencia de Datos de La Universidad de Guadalajara.
 
