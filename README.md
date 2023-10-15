@@ -1,21 +1,14 @@
-# Estructura de repositorio
+# EDA Robo de Vehiculos Jalisco
 
-El objetivo de este repositorio es implementar las buenas prácticas de acuerdo al paper ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037) por Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal.
+Este repositorio es un Análisis Exploratorio de datos para la materia de Desarrollo de Proyecto I de la Maestría en ciencia de Datos de La Universidad de Guadalajara.
 
-La estructura que queremos que tenga este repositorio es la siguiente:
+El proyecto de mi tesis consiste en desarrollar una red neuronal convolucional para leer matriculas de vehículos en movimiento y poder detectar autos robados al comparar las matriculas en tiempo real con las bases da datos de matriculas de vehículos con reporte de robo. 
 
-    ├── LICENSE           <- MIT License.  
-    |  
-    ├── README.md         <- Main Readme file with the description of the project.  
-    |  
-    ├── CONTRIBUTING.md   <- Steps yo contribute to the project.  
-    |  
-    ├── CITATION.md       <- Way to cite the project.  
-    |  
-    ├── data              <- Original data bases.  
-    |  
-    ├── doc               <- Archivos de texto.  
-    |  
-    ├── results           <- Clean and analyzes data bases.  
-    |  
-    └── src               <- Coding files.  
+Para el proyecto de mi tesis se trabaja con Videos e imágenes que son Datos no estructurados. 
+
+Para este EDA se usan datos estructurados con el tema relacionado a mi tesis. 
+Posteriormente se creará un repositorio con el proyecto de CCN para leer matriculas.
+
+Gracias.
+
+[X]( https://x.com/herreraj0rge/status/1713633481488539781?s=20)
